@@ -23,10 +23,10 @@ header-includes:
 
 PhD, Philosophy, University of Toronto, 2014 -- present
 
-- Dissertation topic: Spinoza's metaphysics of the finite
+- Dissertation topic: Spinoza's metaphysics of the finite: composition, essence, modality
 
 - Dissertation committee: Karolina Hübner (supervisor), Nick Stang, Marleen Rozemond
-- Expected Completion: 2020
+- Expected Completion: 2021 January
 
 Visiting assistant in research, Yale University, 2019
 
@@ -42,7 +42,7 @@ BA, Philosophy, University of Pécs, 2012
 
 # Areas of Competence
 
-Epistemology, Philosophy of Mind, Philosophy of Language, 20th Century Philosophy, Ethics, Logic
+Epistemology, Early Analytic Philosophy, Ethics
 
 # Publications
 
@@ -121,6 +121,7 @@ Torin Doppelt, "'A Sadness Born of a Fact': a Study of Spinoza's Humility", Cana
 
 ## Course Instructor
 
+- 17th and 18th century philosophy, 200-level, University of Toronto St. George, Summer, 2020
 - Knowledge and Reality, 200-level, University of Toronto St. George, Summer, 2019
 - Knowledge and Reality, 200-level, University of Toronto St. George, Summer, 2018
 
@@ -168,61 +169,6 @@ Our essays (until 2017) are also published as a collection:
 
 ["Paul Verhaeghen: Omega Minor"](http://www.jelenkor.net/archivum/cikk/2459/pesszimizmust-kovacsolni-a-nihilizmusbol), Jelenkor 55:3, 2012
 
-# Graduate Coursework
-
-(\* = attended)
-
-Yale University
-
-- \*Leibniz, Michael Della Rocca, Spring 2019
-- \*Wittgenstein, Ken Winkler, Spring 2019
-
-University of Toronto
-
-- Teaching in Higher Education (THE500), Anne Urbancic, Spring 2020
-- \*Spinoza’s Theological-Political Treatise, Michael Rosenthal, Spring 2020
-- \*Seminar on Aristotle’s Metaphysics, Christian Pfeiffer, Fall 2019
-- \*Spinoza's Metaphysics and Philosophy of Mind, Karolina Hübner, Summer 2019
-- \*The Rise and Fall of the early David Lewis, Benj Hellie, Spring 2018
-- \*Hegel's Science of Logic, Nick Stang, Fall 2017
-- \*Metaphysical Dependence and Fundamentality, Jessica Wilson, Spring 2017
-- \*Kant and Analytic Metaphysics, Nick Stang, Fall 2017
-- Vagueness, Diana Raffman, Summer 2016
-- Consciousness Then and Now, Marleen Rozemond and William Seager, Spring 2016
-- Reading Course: Semantics for Philosophy, Nate Charlow, Spring 2016
-- Cambridge Pragmatism, Cheryl Misak, Fall 2015
-- Kant's Political Philosophy, Arthur Ripstein, Fall 2015
-- How To Think About Linguistic Meaning, Nate Charlow, Fall 2015
-- Philosophy of Quantum Mechanics, James R. Brown and William Seager, Spring 2015
-- Causal Approaches to Realization: Composition and Constitution, Jessica Wilson, Spring 2015
-- The Early Spinoza, Karolina Hübner, Spring 2015
-- Leibniz, Marleen Rozemond, Fall 2014
-- Kand and Hegel, Nick Stang, Fall 2014
-- Proseminar in Epistemology, Jonathan Weisberg, Fall 2014
-
-Central European University
-
-- Spinoza's Metaphysics, Michael V. Griffin, Spring 2014
-- Philosophy of Mind, Howard Robinson, Spring 2014
-- Hume's Moral Theory, Simon Rippon, Spring 2014
-- Dispositions and Powers, Ferenc Huoranszki, Spring 2014
-- Cognitive Science, Günther Knoblich, Fall 2013
-- Language and Social Cognition, Anne Tamm, Fall 2013
-- Philosophy of Social Science, Fall 2013
-- Special Relativity, Time and Cause, Hanoch Ben-Yami, Fall 2013
-- Epistemology, Katalin Farkas, Spring 2013
-- Possible Worlds, Michael V. Griffin, Spring 2013
-- Rationalism and Empiricism, Michael V. Griffin, Spring 2013
-- \*Wittgenstein, Hanoch Ben-Yami, Spring 2013
-- Philosophy of Religion, Howard Robinson, Spring 2013
-- Philosophy of Language, Hanoch Ben-Yami, Spring 2013
-- Metaphysics, Ferenc Huoranszki, Fall 2012
-- Ancient Philosophy, Gábor Betegh, Fall 2012
-- Advanced Topics in Logic, Hanoch Ben-Yami, Fall 2012
-- Varieties of Scepticism, Katalin Farkas, Fall 2012
-- Continental Philosophy since Kant, David Weberman, Fall 2012
-- Being, Katalin Farkas, Spring 2012
-
 # Summer Schools
 
 Humanist and Scholastic Roots of Early Modern Philosophy, Royal Netherlands Institute in Rome March 12-19, 2018
@@ -257,13 +203,8 @@ Conference organizing:
  
 - "Spinoza: Method, Metaphysics, & Morality" (with the Spinoza Society of Canada), American Philosophical Association Central Meeting, February 21, 2018
 - “Spinoza: New Directions of Research” (with Karolina Hübner) at the University of Toronto, September 9-10, 2017.
-
-Student coordinator of Erasmus College for Advanced Studies, Budapest, Hungary, 2012 -- 2014
-
-Student council member in Kerényi Károly College for Advanced Studies, University of Pécs, 2010 -- 2012
-
 &nbsp;
 
 \begin{flushright}
-\textit{Last updated March, 2020}
+\textit{Last updated June, 2020}
 \end{flushright}
