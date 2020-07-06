@@ -1,9 +1,4 @@
 ---
-title: Róbert Mátyási
-author:
-	- Department of Philosophy, University of Toronto
-	- 170 St. George Street, Toronto, ON M5R 2M8
-date: <robbie.matyasi@mail.utoronto.ca>
 geometry: margin=1in
 subparagraph: true
 header-includes:
@@ -12,21 +7,43 @@ header-includes:
   \usepackage{MinionPro}
   \usepackage{MyriadPro}
   \usepackage[sf]{titlesec}
-  \usepackage{titling}
-  \setlength{\droptitle}{-6em}
+
   \input glyphtounicode
   \pdfgentounicode=1
   ```
 ---
 
+\begin{centering}
+
+\begin{Large}
+
+Róbert Mátyási
+
+\end{Large}
+
+Department of Philosophy, University of Toronto
+
+170 St. George Street, Toronto, ON M5R 2M8
+
+robbie.matyasi@mail.utoronto.ca
+
+\end{centering}
+
+# Research Areas
+
+Areas of specialization: 17th and 18th Century Philosophy, Metaphysics
+
+Areas of competence: Epistemology, Philosophy of Mind, Ethics, Early Analytic Philosophy
+
 # Education
 
-PhD, Philosophy, University of Toronto, 2014 -- present
+PhD, Philosophy, University of Toronto, expected completion 2021
 
 - Dissertation topic: Spinoza's metaphysics of the finite: composition, essence, modality
-
 - Dissertation committee: Karolina Hübner (supervisor), Nick Stang, Marleen Rozemond
-- Expected Completion: 2021 January
+- Dissertation abstract: 
+
+> My dissertation is about Spinoza's metaphysics of ordinary objects, organisms, and persons. I focus on three topics: mereological composition, essence and universals, and the nature of contingency. First I argue that Spinoza is an anti-realist about composition because he is a perspectivalist. That is, for Spinoza, expressions such as '*x* is a part of *y*' or '*x* is a whole composed of some *y*s' convey abstract judgments from a limited perspective. Then I turn to Spinoza's famous *conatus doctrine* which says that the actual essence of an individual is their striving for survival. I argue that it is important for Spinoza that this striving belongs to a natural kind: for example, humans and horses are essentially different. I show that the scope of Spinoza's alleged nominalist commitments don't rule out the existence of a limited set of properties---i.e., universals *in the things* as opposed to Platonic forms. Lastly, I argue that Spinoza holds *modal compatibilism*, the view that some things are both necessary and contingent. I argue that this interpretation allows us to clarify Spinoza's necessitarianism. Second, this reading leads to a new take on answering the acosmist critique of Spinoza.
 
 Visiting assistant in research, Yale University, 2019
 
@@ -35,14 +52,6 @@ Visiting assistant in research, Yale University, 2019
 MA, Philosophy, Central European University, 2014
 
 BA, Philosophy, University of Pécs, 2012
-
-# Areas of Specialization
-
-17th and 18th Century Philosophy, Metaphysics
-
-# Areas of Competence
-
-Epistemology, Early Analytic Philosophy, Ethics
 
 # Publications
 
@@ -149,7 +158,7 @@ Torin Doppelt, "'A Sadness Born of a Fact': a Study of Spinoza's Humility", Cana
 
 ## Philosophy for General Audience
 
-I am a frequent contributor to the [*Kiskáté*](http://www.muut.hu/archivum/category/kiskate) column in the Hungarian journal *Műút*. In *Kiskáté* (somewhat ironically named after the Hungarian word for "catechism") we write short introductions explaining philosophical debates---especially ones that have little or no discussion available in Hungarian---on the occasion of discussing a recent major publication.
+I am a frequent contributor to the [*Kiskáté*](http://www.muut.hu/archivum/category/kiskate) column in the Hungarian journal *Műút*. In *Kiskáté* we write short introductions explaining philosophical debates---especially ones that have little or no discussion available in Hungarian---on the occasion of discussing a recent major publication.
 
 So far I wrote pieces on the following:
 
@@ -183,7 +192,7 @@ Ontology and Metaontology, Central European University, July 13-24, 2015
 
 Canadian Philosophical Association Student Essay Prize, 2019
 
-School of Graduate Studies Doctoral Fellowship, University of Toronto, 2014 -- 2019
+School of Graduate Studies Doctoral Fellowship, University of Toronto, 2014 -- 2020
 
 Balzan Travel Fellowship, Department of Philosophy University of Toronto, 2015; 2018
 
@@ -203,8 +212,12 @@ Conference organizing:
  
 - "Spinoza: Method, Metaphysics, & Morality" (with the Spinoza Society of Canada), American Philosophical Association Central Meeting, February 21, 2018
 - “Spinoza: New Directions of Research” (with Karolina Hübner) at the University of Toronto, September 9-10, 2017.
-&nbsp;
+
+# Research languages
+
+Latin, German
+
 
 \begin{flushright}
-\textit{Last updated June, 2020}
+\textit{Last updated July, 2020}
 \end{flushright}
