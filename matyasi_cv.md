@@ -37,13 +37,13 @@ Areas of competence: Epistemology, Philosophy of Mind, Ethics, Early Analytic Ph
 
 # Education
 
-PhD, Philosophy, University of Toronto, expected completion 2021
+PhD, Philosophy, University of Toronto, expected defense 2021 Jaunary
 
 - Dissertation topic: Spinoza's metaphysics of the finite: composition, essence, modality
 - Dissertation committee: Karolina Hübner (supervisor), Nick Stang, Marleen Rozemond
 - Dissertation abstract: 
 
-> My dissertation is about Spinoza's metaphysics of ordinary objects, organisms, and persons. I focus on three topics: mereological composition, essence and universals, and the nature of contingency. First I argue that Spinoza is an anti-realist about composition because he is a perspectivalist. That is, for Spinoza, expressions such as '*x* is a part of *y*' or '*x* is a whole composed of some *y*s' convey abstract judgments from a limited perspective. Then I turn to Spinoza's famous *conatus doctrine* which says that the actual essence of an individual is their striving for survival. I argue that it is important for Spinoza that this striving belongs to a natural kind: for example, humans and horses are essentially different. I show that the scope of Spinoza's alleged nominalist commitments don't rule out the existence of a limited set of properties---i.e., universals *in the things* as opposed to Platonic forms. Lastly, I argue that Spinoza holds *modal compatibilism*, the view that some things are both necessary and contingent. I argue that this interpretation allows us to clarify Spinoza's necessitarianism. Second, this reading leads to a new take on answering the acosmist critique of Spinoza.
+> My dissertation is about Spinoza's metaphysics of ordinary objects, organisms, and persons. I focus on three topics: mereological composition, essence and universals, and the nature of contingency. First I argue that Spinoza is an anti-realist about composition because he is a perspectivalist. That is, for Spinoza, expressions such as '*x* is a part of *y*' or '*x* is a whole composed of some *y*s' convey abstract judgments from a limited perspective. Then I turn to Spinoza's famous *conatus doctrine* which says that the actual essence of an individual is their striving for survival. I argue that it is important for Spinoza that this striving belongs to a natural kind: for example, humans and horses are essentially different. I show that the scope of Spinoza's alleged nominalist commitments don't rule out the existence of a limited set of properties---i.e., universals *in the things* as opposed to Platonic forms. Lastly, I argue that Spinoza holds *modal compatibilism*, the view that some things are both necessary and contingent. I argue that this interpretation allows us to clarify Spinoza's necessitarianism.
 
 Visiting assistant in research, Yale University, 2019
 
@@ -67,9 +67,31 @@ http://doi.org/10.32881/jomp.74
 
 https://doi.org/10.1093/mind/fzz015
 
+# Papers in progress
+
+(with Karolina Hübner) "Spinoza on intelligibility", *under review*
+
+"Spinoza's Modest Realism about Universals"
+
+"Cavendish’s Two Concepts of Nature"
+
+"Spinoza on Neccessity and Contingency"
+
+(with Damian Melamedoff) "Moore on the Unreality of Agent Relative Value"
+
+[TBD, multiple articles], in *Cambridge Spinoza Lexicon*, eds. Karolina Hübner, Justin Steinberg.
+
 # Talks and Conference Papers
 
 (\* = refereed, \# = invited)
+
+Cavendish’s Two Concepts of Nature
+
+- \*Extending New Narratives Monthly Seminar for Early Career Researchers, TBD 2021, Commentator: TBD
+
+Spinoza's Modest Realism about Universals
+
+- \#American Philosophical Association 2021 Pacific Division Meeting
 
 Spinoza on Essence and Determination
 
@@ -134,6 +156,10 @@ Torin Doppelt, "'A Sadness Born of a Fact': a Study of Spinoza's Humility", Cana
 - Knowledge and Reality, 200-level, University of Toronto St. George, Summer, 2019
 - Knowledge and Reality, 200-level, University of Toronto St. George, Summer, 2018
 
+## Teaching Certificate
+
+- Teaching in Higher Education (THE500), Woodsworth College, University of Toronto, 2020
+
 ## Tutorial Leader
 
 - 17-18th Century Philosophy, 200-level, University of Toronto Mississauga, Fall/Spring 2017-- 2018
@@ -180,13 +206,15 @@ Our essays (until 2017) are also published as a collection:
 
 # Summer Schools
 
-Humanist and Scholastic Roots of Early Modern Philosophy, Royal Netherlands Institute in Rome March 12-19, 2018
+(\* = selective admission)
 
-Collegium Spinozanum II, University of Groningen, July 4-7, 2017
+\*Humanist and Scholastic Roots of Early Modern Philosophy, Royal Netherlands Institute in Rome March 12-19, 2018
+
+\*Collegium Spinozanum II, University of Groningen, July 4-7, 2017
 
 Spinoza and German Idealism, University of Toronto, May 16-19, 2016
 
-Ontology and Metaontology, Central European University, July 13-24, 2015
+\*Ontology and Metaontology, Central European University, July 13-24, 2015
 
 # Awards and Grants
 
@@ -194,11 +222,11 @@ Canadian Philosophical Association Student Essay Prize, 2019
 
 School of Graduate Studies Doctoral Fellowship, University of Toronto, 2014 -- 2020
 
+Full CEU Fellowship, Central European University, 2012 -- 2014
+
 Balzan Travel Fellowship, Department of Philosophy University of Toronto, 2015; 2018
 
 Department of Philosophy Graduate Travel Grant, University of Toronto, 2016; 2017; 2018
-
-Full CEU Fellowship, Central European University, 2012 -- 2014
 
 University of Pécs, Faculty of Humanities, Institutional, Professional, and Scientific Scholarship, 2010 – 2012 
 
@@ -219,5 +247,5 @@ Latin, German
 
 
 \begin{flushright}
-\textit{Last updated July, 2020}
+\textit{Last updated October, 2020}
 \end{flushright}
