@@ -37,13 +37,10 @@ Areas of competence: Epistemology, Philosophy of Mind, Ethics, Early Analytic Ph
 
 # Education
 
-PhD, Philosophy, University of Toronto, expected defense 2021 Jaunary
+PhD, Philosophy, University of Toronto, 2021
 
 - Dissertation topic: Spinoza's metaphysics of the finite: composition, essence, modality
-- Dissertation committee: Karolina Hübner (supervisor), Nick Stang, Marleen Rozemond
-- Dissertation abstract: 
-
-> My dissertation is about Spinoza's metaphysics of ordinary objects, organisms, and persons. I focus on three topics: mereological composition, essence and universals, and the nature of contingency. First I argue that Spinoza is an anti-realist about composition because he is a perspectivalist. That is, for Spinoza, expressions such as '*x* is a part of *y*' or '*x* is a whole composed of some *y*s' convey abstract judgments from a limited perspective. Then I turn to Spinoza's famous *conatus doctrine* which says that the actual essence of an individual is their striving for survival. I argue that it is important for Spinoza that this striving belongs to a natural kind: for example, humans and horses are essentially different. I show that the scope of Spinoza's alleged nominalist commitments don't rule out the existence of a limited set of properties---i.e., universals *in the things* as opposed to Platonic forms. Lastly, I argue that Spinoza holds *modal compatibilism*, the view that some things are both necessary and contingent. I argue that this interpretation allows us to clarify Spinoza's necessitarianism.
+- Dissertation committee: Karolina Hübner (supervisor), Nick Stang, Marleen Rozemond, Michael Rosenthal (internal reader), Samuel Newlands (external reader)
 
 Visiting assistant in research, Yale University, 2019
 
@@ -69,17 +66,13 @@ https://doi.org/10.1093/mind/fzz015
 
 # Papers in progress
 
-(with Karolina Hübner) "Spinoza on intelligibility", *under review*
+"Expression", in *Cambridge Spinoza Lexicon*, eds. Karolina Hübner, Justin Steinberg.
 
-"Spinoza's Modest Realism about Universals"
+A paper on Cavendish's conception of nature
 
-"Cavendish’s Two Concepts of Nature"
+Spinoza on species and qualitative identity
 
-"Spinoza on Neccessity and Contingency"
-
-(with Damian Melamedoff) "Moore on the Unreality of Agent Relative Value"
-
-[TBD, multiple articles], in *Cambridge Spinoza Lexicon*, eds. Karolina Hübner, Justin Steinberg.
+Spinoza on contingency and necessity
 
 # Talks and Conference Papers
 
@@ -89,7 +82,7 @@ Cavendish’s Two Concepts of Nature
 
 - \*Extending New Narratives Monthly Seminar for Early Career Researchers, TBD 2021, Commentator: TBD
 
-Spinoza's Modest Realism about Universals
+Spinoza's Modest Realism about Universal Natures
 
 - \#American Philosophical Association 2021 Pacific Division Meeting
 
@@ -152,6 +145,7 @@ Torin Doppelt, "'A Sadness Born of a Fact': a Study of Spinoza's Humility", Cana
 
 ## Course Instructor
 
+- 17th and 18th century philosophy, 200-level, University of Toronto Mississauga, Winter, 2021
 - 17th and 18th century philosophy, 200-level, University of Toronto St. George, Summer, 2020
 - Knowledge and Reality, 200-level, University of Toronto St. George, Summer, 2019
 - Knowledge and Reality, 200-level, University of Toronto St. George, Summer, 2018
@@ -174,12 +168,6 @@ Torin Doppelt, "'A Sadness Born of a Fact': a Study of Spinoza's Humility", Cana
 - Ethics, 300-level, University of Toronto St. George, Summer 2015
 - Puzzles and paradoxes, University of Toronto Scarborough, Spring 2015
 
-## Guest Lectures
-
-- Spinoza's Metaphysics and Philosophy of Mind, 2019 Summer, University of Toronto, St. George, Graduate course
-- Advanced Topics in Rationalism: Minds, Thinking, and Idealism, 300-level, University of Toronto, Scarborough, 2017 Spring
-- Topics in 17th and 18th Century Philosophy, 300-level, University of Toronto Mississauga, Fall 2017
-
 # Other Academic Contributions
 
 ## Philosophy for General Audience
@@ -191,7 +179,7 @@ So far I wrote pieces on the following:
 - [Michael O. Hardimon: Rethinking Race](http://www.muut.hu/archivum/34422)
 - [Timothy Williamson: Modal Logic as Metaphysics](http://www.muut.hu/archivum/12867)
 - [Herman Cappelen: Philosophy without Intuitions](http://www.muut.hu/archivum/14323) (with Tibor Bárány)
-- [Daniel Z. Korman: Objects: Nothing out of the Ordinary](http://www.muut.hu/archivum/19956) 
+- [Daniel Z. Korman: Objects: Nothing out of the Ordinary](http://www.muut.hu/archivum/19956)
 - [Diana Raffman: Unruly Words](http://www.muut.hu/archivum/25250)
 
 Our essays (until 2017) are also published as a collection:
@@ -228,7 +216,7 @@ Balzan Travel Fellowship, Department of Philosophy University of Toronto, 2015; 
 
 Department of Philosophy Graduate Travel Grant, University of Toronto, 2016; 2017; 2018
 
-University of Pécs, Faculty of Humanities, Institutional, Professional, and Scientific Scholarship, 2010 – 2012 
+University of Pécs, Faculty of Humanities, Institutional, Professional, and Scientific Scholarship, 2010 – 2012
 
 # Service
 
@@ -237,7 +225,7 @@ Board member of the Spinoza Society of Canada, 2016 -- present
 Editor of the Philpapers entry "Spinoza: Teleology", 2016 -- present
 
 Conference organizing:
- 
+
 - "Spinoza: Method, Metaphysics, & Morality" (with the Spinoza Society of Canada), American Philosophical Association Central Meeting, February 21, 2018
 - “Spinoza: New Directions of Research” (with Karolina Hübner) at the University of Toronto, September 9-10, 2017.
 
@@ -247,5 +235,5 @@ Latin, German
 
 
 \begin{flushright}
-\textit{Last updated October, 2020}
+\textit{Last updated November, 2020}
 \end{flushright}
