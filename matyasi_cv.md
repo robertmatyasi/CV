@@ -237,5 +237,5 @@ Latin, German
 
 
 \begin{flushright}
-\textit{Last updated November, 2020}
+\textit{Last updated January, 2021}
 \end{flushright}
