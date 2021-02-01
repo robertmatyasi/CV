@@ -66,6 +66,8 @@ https://doi.org/10.1093/mind/fzz015
 
 # Papers in progress
 
+A paper on Spinozistic attributes and intelligibility
+
 "Expression", in *Cambridge Spinoza Lexicon*, eds. Karolina Hübner, Justin Steinberg.
 
 A paper on Cavendish's conception of nature
